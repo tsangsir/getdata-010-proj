@@ -1,13 +1,13 @@
-Peer Assessments - Getting and Cleaning Data Course Project
+# Peer Assessments - Getting and Cleaning Data Course Project
 
 
-# Setup some constants first
-# Load feature names and identify features to keep
-# For both sets (test and train)
-## Load subject info, data (X), and activity id (y)
-## Remove unwanted features and join with subject+activity names
-# Combine both sets and calaculate means, grouped by subject and activity
-# Write result to text file
+1. Setup some constants first
+1. Load feature names and identify features to keep
+1. For both sets (test and train)
+1.1. Load subject info, data (X), and activity id (y)
+1.1. Remove unwanted features and join with subject+activity names
+1. Combine both sets and calaculate means, grouped by subject and activity
+1. Write result to text file
 
 
 Acknowledgement:
