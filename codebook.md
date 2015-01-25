@@ -87,6 +87,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 - fBodyBodyGyroJerkMag.std.. (Average of fBodyBodyGyroJerkMag.std.. in X_*.txt)
 
 ## Units
-Acceleration Data (*Acc*): standard gravity units 'g'
-Gyroscopic Data (*Gyro*): radians/second
+- Acceleration Data (\*Acc\*): standard gravity units 'g'
+- Gyroscopic Data (\*Gyro\*): radians/second
 
